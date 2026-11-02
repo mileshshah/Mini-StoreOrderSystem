@@ -1,2 +1,8 @@
-bin/*
-obj/*
+# Ignore Visual Studio temporary build output, bin, and obj folders
+[Bb]in/
+[Oo]bj/
+
+# Alternatively, if you want to be completely explicit across any nested depth:
+**/bin/
+**/obj/
+*.db

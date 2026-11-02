@@ -1,4 +1,4 @@
-namespace Mini_StoreOrderSystem;
+namespace Mini_StoreOrderSystem.Data.Entities;
 
 public class Product
 {
